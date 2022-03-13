@@ -36,3 +36,6 @@
 ##### Английский язык
 * Знания языка №#
 * Участвовал в разговорных клубах
+
+##### Ссылка на проект
+[GitHub: ][https://github.com/PavelBujko/rsschool-cv/blob/main/cv.md]
