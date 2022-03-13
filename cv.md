@@ -1,15 +1,28 @@
 # Павел Буйко
 
-Tel: +375 44 583 38 84
-Inst: @_.tuesday
-Facebook: 
-Telegram:
+**Tel:** +375 44 583 38 84
 
-SoftSkills:
+**Inst:** @_.tuesday
+
+**Facebook:**
+
+**Telegram:**
+
+
+##### Soft Skills:
 * Коммуникативные навыки
 * Навыки самоорганизации
 * Креативные навыки
 * Умение работать с информацией
 * Стрессоустойчивость
 
+##### Hard Skills:
+* HTML
+* CSS
+* SASS
+* JavaScript
+* Python
+* Bootstrap
 
+##### Опыт работы
+[GitHub: ][https://github.com/PavelBujko/rsschool-cv/blob/gh-pages/cv.md]
