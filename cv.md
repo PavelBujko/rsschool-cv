@@ -1,10 +1,14 @@
 # Павел Буйко
-![](photo.jpg)
+
 
 **Tel:** +375 44 583 38 84
+
 **Inst:** @_.tuesday
+
 **Facebook:**
+
 **Telegram:**
+
 
 
 ##### Soft Skills:
